@@ -203,12 +203,12 @@ export default {
         {
           codigo: 2,
           nombre: 'Juan Camilo Horta',
-          descripcion: 'Lorem ipsum dolor sit amet, consectetur adipiscing',
+          descripcion: 'Soy una persona con metas claras, comprometido al mejoramiento y buen desempeñó en las áreas asignadas, motivado a seguir en el procesó de aprendizaje trabajando en equipó con mis compañeros. ',
           rol: 'Desarrollador backend',
-          email: '',
-          celular: '',
-          profesion: '',
-          image: 'path/to/image'
+          email: 'camilo20113@hotmail.com',
+          celular: '3155506711',
+          profesion: 'Estudiante',
+          image: 'https://www.instagram.com/p/CIylYWpncmo/?igshid=bzewj7tj7mf7'
         },
         {
           codigo: 3,
