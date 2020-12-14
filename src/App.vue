@@ -212,13 +212,16 @@ export default {
         },
         {
           codigo: 3,
-          nombre: 'Juan Manuel Rojas',
-          descripcion: 'Lorem ipsum dolor sit amet, consectetur adipiscing',
+         nombre: 'Juan Manuel Rojas',
+          descripcion: `Tecnologo en electrónica, formado en la Universidad Distrital Francisco José De Caldas
+                            de la ciudad de Bogotá, con altos valores y con multiples habilidades formadas desde joven.
+                            Me gusta la investigación y además la innovación, el trabajo en equipo, el compromiso, responsabilidad
+                            ,muy respetuoso y además carismatico.`,
           rol: 'Desarrollador backend',
-          email: '',
-          celular: '',
-          profesion: '',
-          image: 'path/to/image'
+          email: 'juancartagena75@hotmail.com',
+          celular: '3165795647',
+          profesion: 'Tecnologo en electrónica',
+          image: 'https://www.instagram.com/p/CBB1bnAs_BVsCzDw7pKI921JXQqUfaDySFsVi40/'
         }
       ]
     }
