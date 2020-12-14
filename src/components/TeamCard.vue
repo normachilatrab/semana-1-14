@@ -9,6 +9,7 @@
           {{ member.descripcion }}
       </p>
       <p>
+        <b>Codigo:</b> {{ member.codigo }} <br />
         <b>Rol:</b> {{ member.rol }} <br />
         <b>Email:</b> {{ member.email }}<br />
         <b>Celular:</b> {{ member.celular }}<br />
