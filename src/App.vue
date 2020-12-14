@@ -198,7 +198,7 @@ export default {
           email: 'normachilatrab@hotmail.com',
           celular: '310-766-6451',
           profesion: 'Administradora Financiera y Tecnóloga en Sistemas',
-          image: 'https://scontent-bog1-1.xx.fbcdn.net/v/t1.0-9/49317232_10156298780992762_3043719992689295360_o.jpg?_nc_cat=110&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeHycCYrRy0tbpCzrih8M0M-7H-vpshY-zPsf6-myFj7M6YgjRoe4ni4sXXqAEdZX4U&_nc_ohc=znikFjSxRXMAX8rYhKH&_nc_ht=scontent-bog1-1.xx&oh=ce9f39f32d2f015f6fa39989f378b03e&oe=5FFAECA0'
+          image: 'https://scontent-bog1-1.xx.fbcdn.net/v/t1.0-9/131423883_10158040800137762_2287384691833701287_o.jpg?_nc_cat=109&ccb=2&_nc_sid=09cbfe&_nc_eui2=AeEm1WVvRmdEniWuu0qP-VT2gLQSND20I9CAtBI0PbQj0KBHI49BYhGv9GpfeXRvpCo&_nc_ohc=UM805WsmqyoAX8cwhaH&_nc_ht=scontent-bog1-1.xx&oh=16397f2c42b705eae50d8fcdcb32d822&oe=5FFD61FA'
         },
         {
           codigo: 2,
