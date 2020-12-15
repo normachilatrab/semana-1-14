@@ -136,7 +136,7 @@ export default {
           email: "camilo20113@hotmail.com",
           celular: "3155506711",
           profesion: "Estudiante",
-          image: "https://www.instagram.com/p/CIylYWpncmo/?igshid=bzewj7tj7mf7",
+          image: "https://scontent-bog1-1.xx.fbcdn.net/v/t1.0-9/90594189_2825525527538145_7825577344143196160_n.jpg?_nc_cat=100&ccb=2&_nc_sid=174925&_nc_eui2=AeHTQDjbeZmi66dA-Vkm8t0VTPGQo_bhJLlM8ZCj9uEkud8Gz2xmiAezVdztXZ7c52g&_nc_ohc=dsaOYbWgybEAX81emJK&_nc_ht=scontent-bog1-1.xx&oh=267c69f55b0786271434fc85efbacaf6&oe=5FFE3722",
         },
         {
           codigo: 3,
