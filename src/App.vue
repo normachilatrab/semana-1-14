@@ -208,7 +208,7 @@ export default {
           email: 'camilo20113@hotmail.com',
           celular: '3155506711',
           profesion: 'Estudiante',
-          image: 'https://www.instagram.com/p/CIylYWpncmo/?igshid=bzewj7tj7mf7'
+          image: 'https://www.facebook.com/photo.php?fbid=2825525524204812&set=a.108601025897289&type=3'
         },
         {
           codigo: 3,
