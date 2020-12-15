@@ -126,6 +126,7 @@ body{
     margin-top: 5px;
     text-align: center;
     color: lightblue;
+    margin-right: 3px;
 }
 .col-5{
     width: 32.42%;
@@ -162,7 +163,7 @@ body{
 }
 
 .news > div:first-child{
-    margin: 0 6px;
+    margin: 0 5px 0 0;
 }
 
 .news-data{
