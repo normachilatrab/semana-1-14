@@ -1,0 +1,232 @@
+body{
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: lightblue;
+}
+
+.container{
+    width: 1200px;
+    height: 2500px;
+    -ms-flex-item-align: center;
+        align-self: center;
+    margin: 0px auto;
+    padding: 0 auto;
+}
+
+.header{
+    height: auto;
+    
+}
+
+.container-menu{
+    height: 60px;
+    background-color: black;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+
+}
+.container-logo{
+    width: 100%;
+    height: inherit;
+    text-align: center;
+    color: lightblue;
+}
+
+.site-title{
+    margin: 0;
+    padding: 0.36em 0;
+}
+
+.container-imagen{
+    background-image: url('../images/banner.jpg');
+    height: 240px;
+}
+
+.nav-list{
+    padding: 0.25em 0;
+    list-style-type: none;
+    text-align: end;
+    width: 100%
+}
+
+.nav-element{
+    padding: 1em 15px;
+    display: inline-block;
+    text-decoration: none;
+    color: darkblue;
+
+}
+
+.nav-element:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.image-text{
+    margin: 0;
+    padding: 9% 0;
+    text-align: center;
+}
+
+.section-1{
+    height: 480px;
+    background-color: black;
+}
+
+.section-1 img {
+    width: 90%;
+    height: 50%;
+}
+
+.section-2{
+    background-color: black;
+}
+
+.section-2 img{
+    width: 200px;
+    height: 70%;
+}
+
+.section-3{
+    background-color: black;
+    display: flex;
+}
+
+.section-3 img {
+    width: 100%;
+    height: 70%;
+}
+
+
+.footer{
+    background-color: black;
+    bottom: 0px;
+    width: 1200px;
+    color: lightblue;
+    padding: 20px 0;
+}
+
+.section-text{
+    margin: 0;
+    color: lightblue;
+    background: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.col-3{
+    width: 33.08%;
+    height: 470px;
+    background-color: #030740;
+    display: inline-block;
+    padding: -15px;
+    margin-top: 5px;
+    text-align: center;
+    color: lightblue;
+    margin-right: 3px;
+}
+.col-5{
+    width: 32.42%;
+    height: 1000px;
+    display: inline-block;
+    margin: 5px 4px 0;
+    text-align: center;
+    background-color: #030740;
+    color: lightblue;
+}
+
+.service-content{
+    padding: 0.5em 0;
+}
+.service-text{
+    padding: 10px;
+    text-align: justify;
+    bottom: 0;
+}
+
+.service-text.memebers{
+    font-style: italic; 
+}
+
+.section-news > div:first-child{
+    margin-bottom: 2px; 
+}
+.news{
+    width: 100%;
+    height: 380px;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+}
+
+.news > div:first-child{
+    margin: 0 5px 0 0;
+}
+
+.news-data{
+    width: 49.3%;
+    height: 100%;
+    background-color: #030740;
+    color: lightblue;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex; 
+}
+
+.news-image{
+    margin: 10px 0;
+    padding: 0 40px;
+    color: white;
+}
+
+.news-text{
+    color: white;
+    text-align: justify;
+    width: 49%;
+    padding: 1em 0;
+}
+
+.news-text > span.news-url{
+    text-align: right;
+}
+
+.news-url{
+    font-size: 10px;
+    float: right;
+}
+
+.news-url > a{
+
+    color: #ffffff; 
+}
+
+hr{
+    color: white;
+}
+
+.main-menu{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main-menu__item{
+    line-height: 3;
+}
+
+.main-menu__link{
+    text-decoration: none;
+    font-size: 1em;
+    color: lightblue;
+}
+
+.main-menu__link:hover{
+    text-decoration: wavy;
+    font-weight: bold;
+}
